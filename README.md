@@ -21,11 +21,12 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
-
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+[Dataset: [https://tuvalabs.com/datasets/roller_coasters/activities]]
+- **Name** (String) - name of rollercoaster
+- **Country** (String) - name of country
+- **Height** (double) - height of the rollercoaster in feet
+- **Speed** (double) - speed of the rollercoaster in mph
+- **Length** (int) - number of tracks on the coaster
 
 ## UML Diagram
 
